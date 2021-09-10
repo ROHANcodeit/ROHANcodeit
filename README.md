@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Tyagi</h1>
-<h3 align="center">Hello</h3>
+<h3 align="center">There is no place like 127.0.0.1</h3>
+
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5e6a544cadf84b1393e2e022/6081985cdbe3b5361e2da1e2_hello-timelapse.gif">
 
 - 🌱 I’m currently learning **Swift**
 
