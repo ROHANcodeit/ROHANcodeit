@@ -3,9 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5e6a544cadf84b1393e2e022/6081985cdbe3b5361e2da1e2_hello-timelapse.gif">
 
-- 🌱 I’m currently learning **Swift**
-
+<!-- - 🌱 I’m currently learning **Swift**
+ -->
 - 📫 How to reach me **rohantyagicodeit@gmail.com**
+
+- 💻 My LeetCode Profile <a href="https://www.leetcode.com/rohancodeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohancodeit" height="30" width="40" /></a>
 
 - ⚡ Fun fact **What came first the Tester or the Bug!!**
 
